@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FrancescoIaccarino
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently attending my first year of university in Bocconi University, attending a great course called Economics Management and Computer Science
+- 💞️ I’m looking to collaborate on some open-source project
+- 📫 How to reach me: francescoiaccarino02@gmail.com
