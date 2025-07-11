@@ -21,7 +21,7 @@
 
 ## 📬 Reach me at
 📫 francescoiaccarino02@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/CJK49) 
+🌐 [LinkedIn](https://www.linkedin.com/in/francesco-iaccarino-109046221/)
 
 ---
 
