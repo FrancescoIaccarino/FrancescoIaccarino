@@ -1,5 +1,29 @@
-- 👋 Hi, I’m @FrancescoIaccarino
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently attending my first year of university in Bocconi University, attending a great course called Economics Management and Computer Science
-- 💞️ I’m looking to collaborate on some open-source project
-- 📫 How to reach me: francescoiaccarino02@gmail.com
+# 👋 Hi, I'm Francesco Iaccarino
+
+🎓 MSc student in Data Science & Business Analytics at Bocconi University  
+🚀 Co-Founder of Astra Bocconi – largest student rep association across 4 Milan universities  
+🧠 Passionate about AI for social good, simulation models, and gamification  
+
+## 💼 What I’ve been up to recently:
+- 📊 Sales Analyst Intern at LG Electronics – forecasting, CRM ops, KPI dashboards  
+- 🧭 Built Travel Hunt – gamified tourism app (BCG X & B4I hackathon finalist)  
+- 🤖 Developed Astra GPT – custom chatbot for student services  
+- 🌍 Created a donation and storytelling platform for a volunteer NGO (PMI)
+
+## 🌱 Past adventures:
+- 🇮🇹 Cadet at the Italian Navy School F. Morosini  
+- 🗳️ Delegate and Chair at the European Youth Parliament  
+- 🏥 Volunteer with Order of Malta  
+- 🧪 Founder of Bocconi Students for Machine Learning  
+
+## 🛠 Skills & Tools
+`Python` | `R` | `SQL` | `Power BI` | `Supabase` | `Notion` | `LaTeX` | 
+
+## 📬 Reach me at
+📫 francescoiaccarino02@gmail.com  
+🌐 [LinkedIn](https://linkedin.com/in/CJK49) 
+
+---
+
+> _"Data alone is not enough. It's about the impact we create with it."_  
+
