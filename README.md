@@ -20,8 +20,8 @@
 ## 🛠 Skills & Tools
 `Python` | `R` | `SQL` | `Power BI` | `Supabase` | `Notion` | `LaTeX` | 
 
-## 📬 Reach me at
-📫 francescoiaccarino02@gmail.com  
+## 📬 Reach me @
+📫 francesco.iaccarino@studbocconi.it - francescoiaccarino02@gmail.com 
 🌐 [LinkedIn](https://www.linkedin.com/in/francesco-iaccarino-109046221/)
 
 ---
