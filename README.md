@@ -7,7 +7,7 @@
 ## 💼 What I’ve been up to recently:
 - 📊 Sales Analyst Intern at LG Electronics – forecasting, CRM ops, KPI dashboards  
 - 🧭 Built Travel Hunt – gamified tourism app (BCG X & B4I hackathon finalist)  
-- 🤖 Developed Astra GPT – custom chatbot for student services  
+- 🤖 Developed Astra GPT – custom chatbot for student services - https://chatgpt.com/g/g-QAGU04uut-astra-gpt
 - 🌍 Created a donation and storytelling platform for a volunteer NGO (PMI)
 
 ## 🌱 Past adventures:
