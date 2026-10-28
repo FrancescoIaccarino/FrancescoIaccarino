@@ -2,15 +2,14 @@
 
 🎓 MSc student in Data Science & Business Analytics at Bocconi University  
 🚀 Co-Founder of Astra Bocconi – largest student rep association across 4 Milan universities  
+💼 GTM Engineer @ Olostep
 🧠 Passionate about AI for social good, simulation models, and gamification  
 
 ## 💼 What I’ve been up to recently:
-- 📊 Sales Analyst Intern at LG Electronics – forecasting, CRM ops, KPI dashboards  
+- 📊 GTM Engineer @ Olostep 
 - 🧭 Built Travel Hunt – gamified tourism app (BCG X & B4I hackathon finalist)  
 - 🤖 Developed Astra GPT – custom chatbot for student services - [AstraGPT](https://chatgpt.com/g/g-QAGU04uut-astra-gpt)
  
-- 🌍 Created a donation and storytelling platform for a volunteer NGO (PMI)
-
 ## 🌱 Past adventures:
 - 🇮🇹 Cadet at the Italian Navy School F. Morosini  
 - 🗳️ Delegate and Chair at the European Youth Parliament  
